@@ -1,4 +1,3 @@
-#!/bin/python3
 from os.path import realpath, join, dirname
 
 from datetime import datetime, timedelta
